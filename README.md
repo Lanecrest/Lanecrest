@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... things
 - 🌱 I’m currently learning ... C# but I can handle criticism
 - 💞️ I’m looking to collaborate on ... games or databases, I'll show you what I know
-- 📫 How to reach me ... TBD
+- 📫 How to reach me ... I'll leave the front unlocked
 - ⚡ Fun fact: ... I'm not a real doctor but I am a real worm
 
 <!---
