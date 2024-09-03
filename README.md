@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lanecrest Tech, but they call me Doctor Worm
+- 👋 Hi, this is @Lanecrest Tech, but they call me Doctor Worm
 - 👀 I’m interested in ... things
 - 🌱 I’m currently learning ... C# but I can handle criticism
 - 💞️ I’m looking to collaborate on ... games or databases, I'll show you what I know
